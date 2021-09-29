@@ -4,7 +4,8 @@
   "description": "\"npm start\" displays the name of 4 of the wilders colleagues in different colours",
   "main": "index.js",
   "scripts": {
-    "test": "npm start"
+    "test": "npm start",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
