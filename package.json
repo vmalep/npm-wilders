@@ -1,0 +1,22 @@
+{
+  "name": "wilders",
+  "version": "1.0.0",
+  "description": "\"npm start\" displays the name of 4 of the wilders colleagues in different colours",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm-wilders"
+  },
+  "keywords": [
+    "workshop",
+    "wilders"
+  ],
+  "author": "Pierre van Male",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
